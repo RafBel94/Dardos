@@ -1,0 +1,4 @@
+Azul;4
+Amarillo;2
+Verde;4
+Rojo;2
